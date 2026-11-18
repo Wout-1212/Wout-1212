@@ -6,6 +6,14 @@ Welkom op mijn portfolio! Hieronder staan een aantal van mijn projecten met link
 
 ## Projecten
 
+### [Samen voor Tess](https://github.com/Wout-1212/steunactie-tess) 🚧 *Work in progress*
+* **Tech Stack:** PHP, Kirby CMS, Tailwind CSS, JavaScript, Mollie API, SQLite
+* **Omschrijving:** Een website voor een steunactie die geld inzamelt voor een medische behandeling: online doneren via Mollie, een donatiemuur en een CMS waarmee het team alles zelf beheert. Een klantproject met een team van twee bij The Agency (KdG). **Nog in ontwikkeling:** doneren werkt volledig in testmodus, maar de site staat nog niet live.
+
+### [Discord Coach](https://github.com/Wout-1212/discord-coach-public)
+* **Tech Stack:** TypeScript, Cloudflare Workers, Discord API, Claude, Intervals.icu API
+* **Omschrijving:** Een persoonlijk project: een Discord-bot waarmee ik via een AI-coach mijn trainingsdata en trainingskalender in Intervals.icu raadpleeg en aanpas. Gebouwd met Claude Code.
+
 ### [Laravel Webshop](https://github.com/Wout-1212/laravel-webshop)
 * **Tech Stack:** PHP, Laravel, MySQL
 * **Omschrijving:** Een e-commerce webapplicatie gebouwd met Laravel voor het beheren en tonen van producten.
